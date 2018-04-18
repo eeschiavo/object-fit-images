@@ -231,4 +231,4 @@ hijackAttributes();
 
 return fix;
 
-}());
+}())();
